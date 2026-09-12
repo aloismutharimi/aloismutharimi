@@ -17,7 +17,7 @@ Based in Nairobi, Kenya.
 
 ## 🚀 Current Projects
 
-### [smp-tracker](https://github.com/yourusername/smp-coach)
+### [smp-coach](https://github.com/yourusername/smp-coach)
 > Daily performance tracker with ML and AI-powered coaching
 
 Log your day, get feedback that adapts to you. Built to answer one question: *am I actually improving?*
