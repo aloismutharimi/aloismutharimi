@@ -17,13 +17,16 @@ Based in Nairobi, Kenya.
 
 ## 🚀 Current Projects
 
-### [smp-coach](https://github.com/yourusername/smp-coach)
-> Daily performance tracker with ML and AI-powered coaching
+### School Fees & Results Tracker 🎓
+### [[School Tracker]](https://github.com/aloismutharimi/school_tracker-sys)
+> A command-line tool that stores student payments, balances, and exam scores — then generates term reports with arrears flags, class rankings, and CSV export.
+
+Built for small schools and tutoring centers still tracking fees and grades by hand.
+
+### [[smp_coach](https://github.com/aloismutharimi/smp_coach))](https://github.com/aloismutharimi/school_tracker-sys)
+> Client-side daily performance tracker with ML and AI-powered coaching
 
 Log your day, get feedback that adapts to you. Built to answer one question: *am I actually improving?*
-
-### [browser-coach](https://github.com/yourusername/browser-coach)
-> Client-side AI coaching tool in JavaScript
 
 Runs entirely in the browser. No servers, no sign-ups, no data leaving your machine.
 
