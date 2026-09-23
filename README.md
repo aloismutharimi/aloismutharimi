@@ -18,12 +18,12 @@ Based in Nairobi, Kenya.
 ## 🚀 Current Projects
 
 ### School Fees & Results Tracker 🎓
-### [[School Tracker]](https://github.com/aloismutharimi/school_tracker-sys)
+### [School Tracker](https://github.com/aloismutharimi/school_tracker-sys)
 > A command-line tool that stores student payments, balances, and exam scores — then generates term reports with arrears flags, class rankings, and CSV export.
 
 Built for small schools and tutoring centers still tracking fees and grades by hand.
 
-### [[smp_coach](https://github.com/aloismutharimi/smp_coach))](https://github.com/aloismutharimi/school_tracker-sys)
+### [smp_coach](https://github.com/aloismutharimi/smp_coach)
 > Client-side daily performance tracker with ML and AI-powered coaching
 
 Log your day, get feedback that adapts to you. Built to answer one question: *am I actually improving?*
