@@ -17,9 +17,8 @@ Based in Nairobi, Kenya.
 
 ## 🚀 Current Projects
 
-### School Fees & Results Tracker 🎓
-### [School Tracker](https://github.com/aloismutharimi/school_tracker-sys)
-> A command-line tool that stores student payments, balances, and exam scores — then generates term reports with arrears flags, class rankings, and CSV export.
+### [School Fees & Results Tracker 🎓](https://github.com/aloismutharimi/school_tracker-sys)
+> A command-line and web-interface tool that stores student payments, balances, and exam scores — then generates term reports with arrears flags, class rankings, and PDF/CSV exports.
 
 Built for small schools and tutoring centers still tracking fees and grades by hand.
 
